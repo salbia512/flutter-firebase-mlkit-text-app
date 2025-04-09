@@ -1,16 +1,42 @@
-# mlkitdemo
+# 🧠 Flutter ML Kit OCR App
 
-A new Flutter project.
+This Flutter app uses **Firebase ML Kit** to perform **real-time text recognition (OCR)** from images. Just pick an image from your gallery, and it extracts the text!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 🔍 Text recognition from gallery images
+- 📱 Clean UI for beginners
+- ⚡ Powered by Firebase ML Kit
+- 🎯 Lightweight, no heavy dependencies
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites:
+- Flutter installed
+- Firebase project with ML Kit enabled
+
+### Steps:
+1. Clone this repo
+2. Run `flutter pub get`
+3. Add your `google-services.json` file
+4. Run on emulator or real device (Android)
+
+---
+
+## 📸 Screenshots
+<img src="screenshots/app_ui.png" width="300" />
+
+---
+
+## 🧰 Built With
+- Flutter
+- Firebase ML Kit
+- image_picker
+
+---
+
+## 📃 License
+This project is licensed under the MIT License.
